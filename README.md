@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
 - I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
-- 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
 - [General Portfolio](https://)
 
 ## Contact me:
