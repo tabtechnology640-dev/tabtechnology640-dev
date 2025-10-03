@@ -61,13 +61,6 @@
 
 [![Docker](https://img.shields.io/badge/docker%20-%23F05033.svg?&style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](#)
 
-#### DJ and Producer
-
-<section style="display:flex; flex-direction:row;">
-  <img src="./img/Logo_Fl_Studio.png" alt= "/Logo_Fl_Studio" width="100" height="100">
-  <img src="./img/Logo_VirtualDJ.png" alt= "/Logo_VirtualDJ" width="100" height="100">
-</section>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
